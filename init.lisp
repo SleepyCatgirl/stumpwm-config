@@ -43,6 +43,9 @@
 (stumpwm:gnewbg "Gamma")
 (stumpwm:gnewbg "Delta")
 (stumpwm:gnewbg "Epsilon")
+(stumpwm:gnewbg "Zeta")
+(stumpwm:gnewbg "Eta")
+(stumpwm:gnewbg "Theta")
 ;; Set prefix key
 (set-prefix-key (kbd "C-z"))
 ;; wallpaper
